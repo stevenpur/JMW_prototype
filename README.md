@@ -1,8 +1,8 @@
-# IBS Microbiome Profile Prediction
+# IBS Microbiome Profile Prediction - Brief Showcase
 
-A machine learning prototype for predicting Irritable Bowel Syndrome (IBS) using microbiome data. This project implements various ML approaches to analyze and classify microbiome profiles for potential IBS diagnosis.
+A brief demonstration of machine learning approaches used in my research on predicting Irritable Bowel Syndrome (IBS) using microbiome data. This showcase highlights key methodologies from a larger project that analyzed and classified microbiome profiles for potential IBS diagnosis.
 
-## Features
+## Key Components Demonstrated
 - Data preprocessing and feature engineering
 - Dimensionality reduction (PCA, UMAP, PCoA)
 - Classification models (SVM, Random Forest)
@@ -17,11 +17,6 @@ A machine learning prototype for predicting Irritable Bowel Syndrome (IBS) using
 ## Requirements
 - Python: scikit-learn, pandas, numpy, matplotlib, umap-learn, scikit-bio
 - R: Shiny package
-
-## Usage
-1. Install required packages
-2. Run analysis: `python ml_explore.py`
-3. Launch visualization: `R shiny.R`
 
 ## Results
 Models demonstrate potential for IBS prediction using microbiome profiles, evaluated through accuracy, precision, recall, and F1 scores.
