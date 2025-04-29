@@ -5,7 +5,6 @@ library(ggplot2)
 library(dplyr)
 
 # Set the working directory (adjust the path accordingly)
-setwd("~/JMW/")
 
 # Read the CSV data
 data_file <- './samples.csv'
